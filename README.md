@@ -2,7 +2,7 @@
 
 ### I'm a Student, Developer and Designer!!
 - 🔭 I’m currently working on personal Portfolio
-- 🌱 I’m currently learning Cloud Computing
+- 🌱 I’m currently learning Advanced NodeJS
 - 👯 I’m looking to collaborate with other Developers
 - ✨ Fun fact: I love to design Logo and UI/UX
 
