@@ -3,7 +3,7 @@
 ### I'm a Student, Developer and Designer!!
 - 🔭 I’m currently working as a Freelance web developer
 - 🌱 I’m currently learning Advanced NodeJS
-- 👯 I’m looking to collaborate with other Developers
+- 👯 I’m looking to collaborate on Open source projects
 - ✨ Fun fact: I love to design Logo and UI/UX
 
 ### Languages and Tools
